@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="INFO" itemID="583c5a39-00000212" symbolType="button" lastModified="1480350296">
+  <timeline>
+    <DOMTimeline name="INFO">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="247-InfoCircle@2x.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-691 -1171|2039 -1171!2039 -1171[2381 -1171 2381 -828!2381 -828|2381 1821!2381 1821[2381 2163 2039 2163!2039 2163|-691 2163!-691 2163[-1033 2163 -1033 1821!-1033 1821|-1033 -828!-1033 -828[-1033 -1171 -691 -1171"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BACK" itemID="583c59ae-00000202" symbolType="button" lastModified="1480350209">
+  <timeline>
+    <DOMTimeline name="BACK" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ic_arrow_back_48px-128.png">
+                  <matrix>
+                    <Matrix a="0.703125" d="0.703125"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ic_arrow_back_48px-128.png">
+                  <matrix>
+                    <Matrix a="0.5218505859375" d="0.5218505859375" tx="11.6" ty="11.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64" y="64"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!122 -14|1745 -14!1745 -14[1945 -14 1945 186!1945 186|1945 1745!1945 1745[1945 1945 1745 1945!1745 1945|122 1945!122 1945[-78 1945 -78 1745!-78 1745|-78 186!-78 186[-78 -14 122 -14"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

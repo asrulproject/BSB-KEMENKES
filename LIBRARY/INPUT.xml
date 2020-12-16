@@ -1,0 +1,180 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="INPUT" itemID="586c7418-00000495" lastModified="1487526994" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="INPUT">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.02366638183594" tx="3.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-1473 -287|7905 -287!7905 -287|7905 13512!7905 13512|-1473 13512!-1473 13512|-1473 -287"/>
+                    <Edge cubics="!-1473 -287(-1473,-287;-1473,-287 7905,-287 7905,-287q-1473 -287 7905 -287)7905,-287;"/>
+                    <Edge cubics="!7905 -287(;7905,-287 7905,13512 7905,13512q7905 -287 7905 13512);"/>
+                    <Edge cubics="!7905 13512(7905,13512;7905,13512 -1473,13512 -1473,13512q7905 13512 -1473 13512);"/>
+                    <Edge cubics="!-1473 13512(;-1473,13512 -1473,-287 -1473,-287q-1473 13512 -1473 -287)-1473,-287;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="device" left="-62.6" width="269.2" height="27.05" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.29531860351562" d="1.29531860351562" tx="79.05" ty="2.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>INPUT DATA ANGGOTA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="27.05" size="24" bitmapSize="480" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMInputText name="namaSiswa" fontRenderingMode="device" left="-54.35" width="262" height="39.8" border="true">
+                  <matrix>
+                    <Matrix a="1.29531860351562" d="1.29531860351562" tx="73" ty="110.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.55" size="33" bitmapSize="660" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMStaticText fontRenderingMode="device" left="-39.5" width="223" height="28.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.29531860351562" d="1.29531860351562" tx="79.05" ty="205.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NOMOR REGISTRASI</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="28.95" size="24" bitmapSize="480" face="Tahoma"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="device" left="40.35" width="63.3" height="28.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.29531860351562" d="1.29531860351562" tx="79.05" ty="62.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NAMA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="28.95" size="24" bitmapSize="480" face="Tahoma"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMInputText name="noPokok" fontRenderingMode="device" left="-54.35" width="262" height="39.8" border="true">
+                  <matrix>
+                    <Matrix a="1.29531860351562" d="1.29531860351562" tx="73" ty="250.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.55" size="33" bitmapSize="660" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMComponentInstance libraryItemName="Button" name="tbDaftar" centerPoint3DX="183.55" centerPoint3DY="624.85" uniqueID="1">
+                  <matrix>
+                    <Matrix a="2.72711181640625" d="2.72698974609375" tx="47.35" ty="594.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="11"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="emphasized">
+      <Inspectable name="emphasized" unlocalizedName="emphasized" variable="emphasized" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" unlocalizedName="label" variable="label" category="" verbose="0" defaultValue="DAFTAR" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" unlocalizedName="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" unlocalizedName="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="toggle">
+      <Inspectable name="toggle" unlocalizedName="toggle" variable="toggle" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMStaticText fontRenderingMode="device" left="-16.25" width="176.5" height="28.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.29531860351562" d="1.29531860351562" tx="79.05" ty="332.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>TANGGAL LAHIR</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="28.95" size="24" bitmapSize="480" face="Tahoma"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMInputText name="cabJILC" fontRenderingMode="device" left="-54.35" width="262" height="39.8" border="true">
+                  <matrix>
+                    <Matrix a="1.29531860351562" d="1.29531860351562" tx="73" ty="377.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.55" size="33" bitmapSize="660" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMStaticText fontRenderingMode="device" left="-32.35" width="208.7" height="28.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.29531860351562" d="1.29531860351562" tx="79.05" ty="460.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>BERLAKU TANGGAL</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="28.95" size="24" bitmapSize="480" face="Tahoma"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMInputText name="kelasJILC" fontRenderingMode="device" left="-54.35" width="262" height="39.8" border="true">
+                  <matrix>
+                    <Matrix a="1.29531860351562" d="1.29531860351562" tx="73" ty="505.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.55" size="33" bitmapSize="660" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,117 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 9" itemID="583280b1-00000224" symbolType="button" lastModified="1487520039">
+  <timeline>
+    <DOMTimeline name="Symbol 9">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="device" left="-48.4" width="240.8" height="20.75" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="101.8" ty="7.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>DAFTAR DI BSB MAKASSAR</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="20.75" size="18" face="_sans" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.212066650390625" c="-0.0238037109375" d="0" tx="173.7" ty="19.5"/>
+                        </matrix>
+                        <GradientEntry color="#FF0000" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!390 0|6559 0!6559 0[#19C3.3 0 6629 6!6629 6|6629 774!6629 774[#19C3.3 780 6559 780!6559 780|390 780!390 780[#146.6A 780 270 762!270 762|270 18!270 18[#146.69 0 390 0"/>
+                    <Edge cubics="!6834 114(;6911,191 6949,283 6949,390q6834 114Q6949 229q6949 390);"/>
+                    <Edge cubics="!6949 390(;6949,497 6911,589 6834,665q6949 390Q6949 551q6834 665);"/>
+                    <Edge cubics="!6559 0(;6584,0 6608,2 6629,6q6559 0 6629 6);"/>
+                    <Edge cubics="!6629 6(;6709,20 6776,56 6834,114q6629 6Q6746 26q6834 114);"/>
+                    <Edge cubics="!6834 665(6834,665;6776,723 6709,759 6629,774q6834 665Q6746 754q6629 774)6629,774;"/>
+                    <Edge cubics="!6629 774(;6610,778 6585,780 6559,780q6629 774 6559 780);"/>
+                    <Edge cubics="!114 114(;160,69 211,37 270,18q114 114Q184 45q270 18);"/>
+                    <Edge cubics="!270 18(;306,6 347,0 390,0q270 18Q326 0q390 0);"/>
+                    <Edge cubics="!390 780(;349,780 310,774 270,762q390 780Q326 780q270 762);"/>
+                    <Edge cubics="!270 762(;215,745 162,713 114,665q270 762Q184 735q114 665);"/>
+                    <Edge cubics="!114 665(;38,589 0,497 0,390q114 665Q0 551q0 390);"/>
+                    <Edge cubics="!0 390(;0,283 38,191 114,114q0 390Q0 229q114 114);"/>
+                    <Edge cubics="!390 0(;390,0 6559,0 6559,0q390 0 6559 0);"/>
+                    <Edge cubics="!6559 780(;6559,780 390,780 390,780q6559 780 390 780);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#BBBBBB"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!390 0|6559 0!6559 0[#19C3.3 0 6629 6!6629 6|6629 774!6629 774[#19C3.3 780 6559 780!6559 780|390 780!390 780[#146.6A 780 270 762!270 762|270 18!270 18[#146.69 0 390 0"/>
+                    <Edge cubics="!390 0(;390,0 6559,0 6559,0q390 0 6559 0);"/>
+                    <Edge cubics="!6559 780(;6559,780 390,780 390,780q6559 780 390 780);"/>
+                    <Edge cubics="!6559 0(;6584,0 6608,2 6629,6q6559 0 6629 6);"/>
+                    <Edge cubics="!6629 774(;6610,778 6585,780 6559,780q6629 774 6559 780);"/>
+                    <Edge cubics="!270 18(;306,6 347,0 390,0q270 18Q326 0q390 0);"/>
+                    <Edge cubics="!390 780(;349,780 310,774 270,762q390 780Q326 780q270 762);"/>
+                    <Edge cubics="!6629 774(;6629,774 6629,6 6629,6q6629 774 6629 6);"/>
+                    <Edge cubics="!270 18(;270,18 270,762 270,762q270 18 270 762);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.19580078125" d="0.19580078125" tx="172.5" ty="19.5"/>
+                        </matrix>
+                        <GradientEntry color="#FF0000" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!390 0|6559 0!6559 0[#19C3.3 0 6629 6!6629 6|6629 774!6629 774[#19C3.3 780 6559 780!6559 780|390 780!390 780[#146.6A 780 270 762!270 762|270 18!270 18[#146.69 0 390 0"/>
+                    <Edge cubics="!390 0(;390,0 6559,0 6559,0q390 0 6559 0);"/>
+                    <Edge cubics="!6559 780(;6559,780 390,780 390,780q6559 780 390 780);"/>
+                    <Edge cubics="!6559 0(;6584,0 6608,2 6629,6q6559 0 6629 6);"/>
+                    <Edge cubics="!6629 774(;6610,778 6585,780 6559,780q6629 774 6559 780);"/>
+                    <Edge cubics="!270 18(;306,6 347,0 390,0q270 18Q326 0q390 0);"/>
+                    <Edge cubics="!390 780(;349,780 310,774 270,762q390 780Q326 780q270 762);"/>
+                    <Edge cubics="!6629 774(;6629,774 6629,6 6629,6q6629 774 6629 6);"/>
+                    <Edge cubics="!270 18(;270,18 270,762 270,762q270 18 270 762);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
